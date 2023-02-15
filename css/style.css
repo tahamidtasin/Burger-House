@@ -1,0 +1,187 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: 'bebas neue' , cursive;
+	font-size: 14px;
+	line-height: 1.7em;
+
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'alfa slab one' , cursive;
+	text-transform: san-serif;
+	size:16px;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: none;
+}
+.header{
+	width: 100%;
+	background: url("../image/banner.png") center top no-repeat;
+	background-size: cover;
+	padding: 20px 0px;
+	size: initial;
+	height: 800px;
+}
+.main-menu .logo{
+    margin: 10px 0px 0px;
+
+}
+.main-menu .text-right{
+	text-align: right;
+	font-size: 14px;
+	font-weight: 700;
+	font-family: 'Roboto', sans-serif;
+	margin: 0px 20px 2px 0px;
+	color: #3d2514;
+}
+.navbar-expand-lg .navbar-nav .nav-link{
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: 600;
+	letter-spacing: 2px;
+	margin: 0px 0px 0px 20px;
+	color: #3d2514;
+}
+.navbar-expand-lg .navbar-nav .nav-link:hover{
+
+	color: #bf2222;
+}
+.features .card {
+	margin: 0px 0px 32px;
+}
+.container{
+	text-align: center;
+	margin: 10px 0px 0px;
+}
+.container .lg-12 .subtitle {
+	margin: 40px 0px 0px;
+}
+.choose{
+	width: 100%;
+	padding: 20px 0px 80px;
+}
+.choose .title{
+	width: 100%;
+	padding: 0px 0px 40px;
+	text-align: center;
+}
+.choose .title span{
+	margin-top: 30px;
+    margin-bottom: 6rem;
+}
+.choose .btn-danger{
+	color: #fff;
+	background: #bf2222;
+	display: inline-block;
+	padding: 10px 25px;
+	font-size: 20px;
+	text-transform: none;
+}
+.choose .btn-danger:hover{
+	color: #bf2222;
+	background: #fff;
+}
+.contact-section{
+	width: 100%;
+	padding: 80px 0px;
+	background: url("../image/background.png") center top no-repeat;
+	background-size: cover;
+}
+.contact-section .title{
+	width: 100%;
+	padding: 20px 0px 0px ;
+
+}
+.contact-section .title1{
+	width: 100%;
+	padding: 20px 0px 60px ;
+}
+.contact-section .main-form{
+
+}
+.contact-section .main-form .form-control{
+	font-family: 'Bebas Neue', cursive;
+	padding: 15px;
+	font-size: 18px;
+	text-transform: uppercase;
+	font-weight: 500;
+	color: #3d2514;
+	border: 1px solid #3d2514;
+	border-radius: 5px;
+}
+.contact-section .main-form .form-control:focus{
+	box-shadow:  0 0 0 0.10rem rgb(121, 85, 72);
+
+}
+.contact-section .main-form .btn-danger{
+	display: block;
+	padding: 15px ;
+	font-family: 'Bebas Neue', cursive;
+	border: 1px solid ;
+	font-size: 18px;
+	color: #fff;
+	background: #bf2222;
+	border: 1px solid #bf2222;
+}
+.contact-section .main-form .btn-danger:hover{
+    color: #bf2222;
+	background: #fff;
+	border: 1px solid #bf2222;
+    transition: .5s;
+    background: transparent;
+}
+.footer{
+	width: 100%;
+	padding: 0px 0px 40px;
+}
+.main-footer{
+	width: 100%;
+	padding: 80px 20px 10px;
+	background: url("../image/footer.png") center top no-repeat;
+	background-size: cover;
+	text-align: left;
+}
+.main-footer .f-logo{
+	margin: 0px 0px 30px;
+	text-align: right;
+    padding: ;
+}
+.f-text{
+	font-size: 16px;
+	color: #fff;
+	text-align: left;
+	margin: 0px 0px 110px;
+}
+.info{
+	display: block;
+}
+.info li{
+	font-family: 'Bebas Neue', cursive;
+	list-style: none;
+	display: block;
+	margin: 0px 0px 20px;
+	font-size: 15px;
+	font-weight: 600;
+	color: #fff;
+}
+.info li img{
+	margin: 0px 20px 0px 0px;
+}
+
+.copyrights{
+	font-family: 'Bebas Neue', cursive;
+	font-size: 14px;
+	color: #fff;
+}
+.social-icons li{
+	text-align: right;
+}
